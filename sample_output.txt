@@ -1,0 +1,5 @@
+Sep 11 22:35:27 sysadmin-host cloud-init[574]: 2026-09-11 22:35:26,721 - schema.py[WARNING]: cloud-config failed schema validation! You may run 'sudo cloud-init schema --system' to check the details.
+Sep 11 22:35:27 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 11 22:35:27 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Sep 11 22:35:27 sysadmin-host systemd[1]: Started Download data for packages that failed at package install time.
+Sep 11 22:35:27 sysadmin-host kernel: [    0.000000] NUMA: Failed to initialise from firmware
